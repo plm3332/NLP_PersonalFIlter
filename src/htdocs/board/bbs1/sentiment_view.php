@@ -29,7 +29,7 @@
 	
 	<div id="bo_ser">
 		<ul>
-			<li><a href="../../index.php">[목록으로]</a></li>
+			<li><a href="sentiment_filter.php">[목록으로]</a></li>
 			<li><a href="modify.php?idx=<?php echo $board['idx']; ?>">[수정]</a></li>
 			<li><a href="delete.php?idx=<?php echo $board['idx']; ?>">[삭제]</a></li>
 		</ul>
